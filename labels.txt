@@ -1,0 +1,10 @@
+0 Cenicilla polvorienta
+1 Peste negra 
+2 Tizón tardío
+3 Cancer bacteriano
+4 Cremallera de tomate
+5 Virus del rizado amarillo
+6 Mosca blanca
+7 Moscas minadoras o minadores
+8 Áfidos o pulgones
+9 Fusariosis
